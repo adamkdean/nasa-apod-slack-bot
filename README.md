@@ -16,4 +16,4 @@ NASA Astronomy Picture of the Day slack bot
 
 `CRON_TIMEZONE` is the posting cron timezone (default `Europe/London`)
 
-`NASA_API_KEY` is your NASA API key, get one ![here](https://api.nasa.gov/)
+`NASA_API_KEY` is your NASA API key, get one [here](https://api.nasa.gov/)
