@@ -1,0 +1,17 @@
+{
+  "name": "nasa-apod-slack-bot",
+  "version": "1.0.0",
+  "description": "NASA Astronomy Picture of the Day slack bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Adam K Dean <adamkdean@googlemail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/webhook": "^5.0.2",
+    "axios": "^0.19.0",
+    "cron": "^1.7.2"
+  }
+}
