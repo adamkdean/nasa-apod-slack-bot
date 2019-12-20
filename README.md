@@ -2,7 +2,8 @@
 
 NASA Astronomy Picture of the Day slack bot
 
-![Docker pulls](https://img.shields.io/docker/pulls/adamkdean/nasa-apod-slack-bot.svg) `adamkdean/nasa-apod-slack-bot`
+![Docker pulls](https://img.shields.io/docker/pulls/adamkdean/nasa-apod-slack-bot.svg)  
+`adamkdean/nasa-apod-slack-bot`
 
 ## Docker
 
@@ -20,4 +21,4 @@ NASA Astronomy Picture of the Day slack bot
 
 ## Example
 
-![image](https://user-images.githubusercontent.com/1639527/71253770-bf156f00-2320-11ea-83a0-4d944a63ace0.png)
+![Example image](https://user-images.githubusercontent.com/1639527/71253821-e79d6900-2320-11ea-8e0e-02f69ac0ce1e.png)
